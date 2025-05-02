@@ -1,8 +1,5 @@
 # creatree
 
-![PyPI version](https://img.shields.io/pypi/v/creatree)
-![License](https://img.shields.io/github/license/Babs1464/creatree)
-
 A Python package and CLI tool for creating directory structures from a tree-like string.
 
 ## Overview
